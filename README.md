@@ -1,1 +1,1 @@
-# dulich.github.io
+dulich.github.io
